@@ -3,7 +3,7 @@ using namespace std;
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
-            for(int i=digits.size()-1;i>=0;i--){
+            for(int i=digits.size()-1;i>=0;i--){//Time complexity: O(n), Space complexity: O(1)
                 if(digits[i]<9){
                     digits[i]++;
                     return digits;
