@@ -3,7 +3,7 @@ using namespace std;
 
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
+    vector<int> twoSum(vector<int>& nums, int target) {//Time complexity: O(n^2), Space complexity: O(1)
         for(auto it=nums.begin(); it != nums.end(); ++it) {
             for(auto jt=it + 1; jt != nums.end(); jt++) {
                 if (*it + *jt == target) {
