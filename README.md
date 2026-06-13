@@ -1,4 +1,4 @@
-# leetcodequestion
+# DSA-practice
 This repository contains my solutions to DSA problems from:
 <br>
 -Leetcode
