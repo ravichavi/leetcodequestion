@@ -15,7 +15,11 @@ This repository contains my solutions to DSA problems from:
 
 # Topics Covered
 <br>
--Array
+-Arrays
+<br>
+-Recursion
+<br>
+-Searching
 <br>
 -Sorting
 <br>
