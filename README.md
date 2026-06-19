@@ -25,9 +25,11 @@ This repository contains my solutions to DSA problems from:
 <br>
 -Patterns
 <br>
+-Problem Solving
+<br>
 
 # Goal
-To strengthen my understanding of data structures and algorithms through consistent practice and implementation of optimized solution
+To strengthen my understanding of data structures and algorithms through consistent practice and implementation of optimized solution.
 
 
 
