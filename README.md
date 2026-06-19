@@ -7,21 +7,13 @@ This repository contains my solutions to DSA problems from:
 <br>
 -GeeksforGeeks
 <br>
-# PROGRESS
-Solved Problems
+# Topics Covered
 <br>
--Two Sum
+-Array
 <br>
--Largest Element
+-Sorting
 <br>
--Second Largest Element
+-Patterns
 <br>
--Plus One
-<br>
--Move Zeroes
-<br>
--Check if array is sorted and rotated
-<br>
--Rotate Array 
 
 
