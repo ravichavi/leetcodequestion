@@ -7,6 +7,12 @@ This repository contains my solutions to DSA problems from:
 <br>
 -GeeksforGeeks
 <br>
+
+# Language
+<br>
+-C++
+<br>
+
 # Topics Covered
 <br>
 -Array
@@ -15,5 +21,9 @@ This repository contains my solutions to DSA problems from:
 <br>
 -Patterns
 <br>
+
+# Goal
+To strengthen my understanding of data structures and algorithms through consistent practice and implementation of optimized solution
+
 
 
