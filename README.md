@@ -7,21 +7,29 @@ This repository contains my solutions to DSA problems from:
 <br>
 -GeeksforGeeks
 <br>
-# PROGRESS
-Solved Problems
+
+# Language
 <br>
--Two Sum
+-C++
 <br>
--Largest Element
+
+# Topics Covered
 <br>
--Second Largest Element
+-Arrays
 <br>
--Plus One
+-Recursion
 <br>
--Move Zeroes
+-Searching
 <br>
--Check if array is sorted and rotated
+-Sorting
 <br>
--Rotate Array 
+-Patterns
+<br>
+-Problem Solving
+<br>
+
+# Goal
+To strengthen my understanding of data structures and algorithms through consistent practice and implementation of optimized solution.
+
 
 
